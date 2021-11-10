@@ -1,7 +1,7 @@
 # Welcome to the C++ Interview Preparation Repository
 In this repository, I am going to add notes on C++, its internals, and try to condense it in a form quickly graspable for brushing up something for an interview. I am working on it for my own job hunting, but I thought making it open-source might help others led by a Google search for anything I might add.
 
-<span style="font-size:larger;"> I have just started work on 09/11, and I would expect decent progress on this repo within a month :) </span>
+## I have just started work on 09/11, and I would expect decent progress on this repo within a month :) 
 
 # Disclaimer: 
 
