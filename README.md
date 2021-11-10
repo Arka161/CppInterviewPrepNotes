@@ -7,4 +7,4 @@ In this repository, I am going to add notes on C++, its internals, and try to co
 
 # Motivation: 
 
-I have written production code in C++ in the past during some of my jobs, but I thought it's a good thing to write this repo, as more often than not, you wouldn't be using some of the core C++ features in production, and especially so if the codebase you're maintaining is a Legacy feature. To give context, you can get by writing production code just fine if you do not know the internal mechanics of a trivial operator like the `const_cast`. 
+I have written production code in C++ in the past during some of my jobs, but I thought it's a good thing to write this repo, as more often than not, you wouldn't be using some of the core C++ features in production, and especially so if the codebase you're maintaining is a Legacy feature. To give context, in most cases, you can get by writing production code just fine, even if if you do not know the internal mechanics of a trivial operator like the `const_cast`, or the `N` number of cyclic resourcing scenarios with `shared_ptr`. 
