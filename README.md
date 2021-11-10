@@ -3,7 +3,7 @@ In this repository, I am going to add notes on C++, its internals, and try to co
 
 # Disclaimer: 
 
-**I do not claim to be a C++ expert**, and I am not suggesting that this repo is a comprehensive guide for any of the topics. They are intended to serve as a refresher, and I will of course assume the reader has a certain degree of familiairty with C++ basics. 
+**I do not claim to be a C++ expert**, and I am not suggesting that this repo is a comprehensive guide for any of the topics. They are intended to serve as a refresher, and I will of course assume the reader has a certain degree of familiairty with the fundamenals of C++. Some of my code could be too C++11 inspired and might not be the most up to date (I started programming a lot in C++ when C++11 was just released), so please create an issue/PR and I'll look into it. 
 
 # Motivation: 
 
